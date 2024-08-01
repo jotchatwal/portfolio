@@ -1,10 +1,10 @@
 import { v4 as uuidv4 } from 'uuid';
-import BurgerImg from '../images/burgermaker.jpg';
+// import BurgerImg from '../images/burgermaker.jpg';
 import CloudManagementImg from '../images/cyber-bg.png';
 import NetflixImg from '../images/Netflix.jpg';
-import OlympicImg from '../images/Capture.JPG';
-import WhatsappImg from '../images/whatsapp-web-crawlers.jpg';
-import HousePrice from '../images/House_price.JPG';
+// import OlympicImg from '../images/Capture.JPG';
+// import WhatsappImg from '../images/whatsapp-web-crawlers.jpg';
+// import HousePrice from '../images/House_price.JPG';
 
 const projects = [
   {
